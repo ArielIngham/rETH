@@ -76,7 +76,7 @@ Now you know what rETH is you can read more below on all the degen activities!
 You can get rETH multiple ways, just make sure it's this one: 
 0xae78736Cd615f374D3085123A210448E74Fc6393
 
-The source of the rETH is always from here: https://stake.rocketpool.net/. Depending on the amouth of rETH you are after, it might be a cheaper acquiring it from a Layer 2, liquidity pool etc. It really depends on how much rETH you are after and the gas costs. Shop around for the best deal!
+The source of the rETH is always from here: https://stake.rocketpool.net/. Depending on the amouth of rETH you are after and the gas costs, it might be a cheaper acquiring it from a Layer 2, liquidity pool etc. Shop around for the best deal!
 
 
 ### Liquidity Pools(Yield on Yield on Yield) <a name="liquidity"></a>
