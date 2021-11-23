@@ -54,7 +54,7 @@ Rocket Pool believes that this system benefits both parties:
   - Decentralized smart contract staking. You don't need to rely on humans on the other side for stealing your staked ETH; it's all managed by smart-contracts. 
   - Node Operators are also required to buy RPL tokens as an insurance mechanism for you! It has to be 10% insured and above. 
 
-Staking and ETH and getting rewards is not some radical out-of-world idea that it may seem. In traditional finance, this would be very similar to buying a government bond. The government bond sets an interest rate (or coupon rate) and a maturity date. When the maturity date is up, you get the principal amount you paid for the bond as well as the interest that was set. 
+Staking ETH and getting rewards is not some radical out-of-world idea that it may seem. In traditional finance, this would be very similar to buying a government bond. The government bond sets an interest rate (or coupon rate) and a maturity date. When the maturity date is up, you get the principal amount you paid for the bond as well as the interest that was set. ETH and rETH conceps are very similar. 
 
 There are a couple of subtle similarities between staking ETH and purchasing traditional government bonds. 
 - In Rocket Pool, you get this bond as a form of rETH that can be traded in the free market; this is similar to buying and selling government bond ETFs. 
