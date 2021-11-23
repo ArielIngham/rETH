@@ -3,8 +3,9 @@
 ## Table of Contents
 1. [General Mission](#generalMission)
 2. [What is rETH](#whatReth)
-3. [Liquidity Pools (yield related)](#liquidity)
-4. [Lending Protocols](#lendingProtocols)
+3. [How to get rETH](#getReth)
+4. [Liquidity Pools (yield related)](#liquidity)
+5. [Lending Protocols](#lendingProtocols)
 6. [Yield Aggregators](#yieldAggregators)
 7. [Derivatives](#derivitives)
 8. [Moving Forward](#movingForwards)
@@ -65,9 +66,17 @@ In such a scenario, rETH would be the default wrapper token to be utilized in De
 
 In traditional finance rETH would be considered a "risk free rate". It is a reference point for investors to decide if they should invest into a particular product. Besides simply holding ETH, you cannot do anything less risky in Ethereum than staking it. If you have some fancy DeFi idea and it cannot generate more return than the risk free rate than the product is not worth investing in, and you are better off buying rETH. DeFi on the other hand allows you to trade the risk free rate knowing as rETH.
 
-Going back to the traditional finance government bond example in the previous section. This would be like having the ability to trade your US treasury bond for shares in Tesla because you think Tesla will out grow the yield of a US treasury bond. Obviously you can't do that. You have to sell your US treasury bond for US dollars, then buy Tesla shares with the US dollars. With rETH you can do that. You can trade your rETH for any token on the market. If you do this you are basically implying that the token you are getting in exchange for rETH will outgroup Ethereum's risk free rate. The person on the other side of this exchange is thinking the exact opposite. 
+Going back to the traditional finance government bond example. This would be like having the ability to trade your US treasury bond for shares in Tesla because you think Tesla will out grow the yield of a US treasury bond. Obviously you can't do that. You have to sell your US treasury bond for US dollars, then buy Tesla shares with the US dollars. With rETH you can do that. You can trade your rETH for any token on the market. If you do this you are basically implying that the token you are getting in exchange for rETH will outgroup Ethereum's risk free rate. The person on the other side of this exchange is thinking the exact opposite. 
 
 Now you know what rETH is you can read more below on all the degen activities!
+
+
+### How to get rETH <a name="getReth"></a>
+
+You can get rETH multiple ways, just make sure it's this one: 
+0xae78736Cd615f374D3085123A210448E74Fc6393
+
+The source of the rETH is always from here: https://stake.rocketpool.net/. Depending on the amouth of rETH you are after, it might be a cheaper acquiring it from a Layer 2, liquidity pool etc. It really depends on how much rETH you are after and the gas costs. Shop around for the best deal!
 
 
 ### Liquidity Pools(Yield on Yield on Yield) <a name="liquidity"></a>
